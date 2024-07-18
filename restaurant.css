@@ -1,0 +1,60 @@
+#logo{
+    
+    display: flex;
+}
+#logo img{
+    height: 100px;
+    width: 100px;
+}
+
+
+#navbar{
+    background-color: black;
+    display: flex;
+    color: white;
+    height: 50px;
+    
+}
+#navbar h1{
+    padding-left: 40px;
+    padding-bottom: 20px;
+    font-size: medium;
+
+}
+#navbar a{
+    color: white;
+    text-decoration: none;
+}
+.Signup h1{
+    padding-left: 1200px;
+    
+
+}
+.food1 img{
+    height: 300px;
+    width: 100%;
+}
+.food2 img{
+    height: 300px;
+    width: 500px;
+}
+.food2{
+    padding-top: 20px;
+    padding-left: 100px;
+    display: flex;
+}
+#about{
+    display: flex;
+    padding-left: 700px;
+    padding-top: 0px;
+}
+#about h1{
+    color: white;
+}
+p{
+    color: white;
+}
+
+
+
+
